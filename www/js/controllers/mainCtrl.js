@@ -1,0 +1,4 @@
+baseAPP.controller('mainCtrl', [function(){
+
+
+}]);
